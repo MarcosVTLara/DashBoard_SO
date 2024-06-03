@@ -1,0 +1,6 @@
+# Ignore o ambiente virtual
+venv/
+
+# Ignore arquivos de IDE
+.vscode/
+.idea/
